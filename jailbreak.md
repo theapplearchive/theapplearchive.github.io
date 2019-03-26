@@ -2,7 +2,9 @@
 
 _____
 
-## Method #1 (Easy) (No Computer Required)
+## Method #1 (No Computer Required)
+
+_____
 
 ### iOS 12
 
@@ -16,9 +18,11 @@ Install Unc0ver Jailbreak for iOS 11.0 - 11.4.1 here.
 
 _____
 
-## Method #2 (Reliable) (Computer Required)
+## Method #2 (Computer Required)
 
-If the above links are broken, method #2 will always work.
+If the above links are broken, method #2 can always be used.
+
+_____ 
 
 ### Tutorial
 
@@ -28,12 +32,15 @@ If the above links are broken, method #2 will always work.
 4. Sign in with your Apple ID credentials to sign the application. (your details are only sent to Apple servers, but a burner account can be used as well)
 6. Navigate to Settings > General > Device Management on your iOS device to trust the application.
 
+_____
+
 ### Cydia Impactor
 
 Download Cydia Impactor to install the jailbreak application. (Available on Windows and Mac)
 
 Download [here](http://www.cydiaimpactor.com/)
 
+_____
 
 ### IPA Links
 
