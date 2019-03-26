@@ -18,7 +18,7 @@ _____
 
 ## Method #2 (Reliable) (Computer Required)
 
-If the links above are broken, method #2 will always work.
+If the above links are broken, method #2 will always work.
 
 ### Tutorial
 
