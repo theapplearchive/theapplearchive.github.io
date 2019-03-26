@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to The Apple Archive
 
-You can use the [editor on GitHub](https://github.com/theapplearchive/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website serves as an all-in-one resource for applications and tools related to iOS tweaking and jailbreaking.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Block iOS Updates
 
-### Markdown
+This profile can be removed at any time, making this completely reversable.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Download the profile here.
 
-```markdown
-Syntax highlighted code block
+### Jailbreak
 
-# Header 1
-## Header 2
-### Header 3
+Here you will find a list of available jailbreaks and a link to install the applications directly from safari. 
+Visit the jailbreak page here.
 
-- Bulleted
-- List
+### Signing Services
 
-1. Numbered
-2. List
+Here you will find a list of all major signing services, both free and paid. 
+Signing services do not require a jailbreak and are compatible with all iPhones on all iOS versions.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theapplearchive/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
