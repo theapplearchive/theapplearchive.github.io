@@ -1,4 +1,4 @@
-## Welcome to The Apple Archive
+# Welcome to The Apple Archive
  
 This website is still in beta, you may experience broken links.
 
