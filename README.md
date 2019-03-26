@@ -14,7 +14,7 @@ _____
 
 ### [Jailbreak](https://theapplearchive.github.io/jailbreak)
 
-Here you will find a list of available jailbreaks.
+Here you will find available jailbreaks.
 
 There will be links to install the applications directly from safari.
 
