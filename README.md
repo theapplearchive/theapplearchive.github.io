@@ -8,7 +8,7 @@ _____
 
 This will allow you to block iOS updates to stay on your current version.
 
-You will no longer be contrinually prompted to update.
+You will no longer be prompted to update.
 
 _____
 
