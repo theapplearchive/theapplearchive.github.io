@@ -1,3 +1,58 @@
-Jailbreak
+# Jailbreak
+
+_____
+
+## Method #1 (Easy) (No Computer Required)
+
+### iOS 12
+
+iOS 12.0 - 12.1.2 *CAN* currently be jailbroken on all devices besides A12. (See below)
+
+iOS 12.1.3 - (latest) *CANNOT* be jailbroken.
+
+Install Unc0ver Jailbreak for iOS 12.0 - 12.1.2 here.
+
+(This will not jailbreak your phone, it will only install the jailbreak app on your phone)
+
+*iPhone XR, XS, and XS Max (A12) will recieve Cydia support soon*
+
+### iOS 11
+
+All versions of iOS 11 *CAN* currently be jailbroken on all devices.
+
+Install Unc0ver Jailbreak for iOS 11.0 - 11.4.1 here.
+
+(This will not jailbreak your phone, it will only install the jailbreak app on your phone)
+
+_____
+
+## Method #2 (Reliable) (Computer Required)
+
+If the links above are broken, method #2 will always work.
+
+### Tutorial
+
+1. Download and install Cydia Impactor. (linked below)
+2. Download and install the jailbreak IPA (app) for your iOS version. (linked below)
+3. Open Cydia Impactor and drag your IPA file onto the Cydia Impactor infterface.
+4. Sign in with your Apple ID credentials to sign the application. (your details are only sent to Apple servers, but a burner account can be used as well)
+6. Navigate to Settings > General > Device Management on your iOS device to trust the application.
+
+### Cydia Impactor
+
+Download Cydia Impactor to install the jailbreak application. (Available on Windows and Mac)
+
+Download [here](http://www.cydiaimpactor.com/)
+
+
+### IPA Links
+
+iOS 12.0 - 12.1.2 - Download Unc0ver [here](https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b48/Undecimus-v3.0.0-b48.ipa)
+
+iOS 11.0 - 11.4.1 - Download unc0ver [here](https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b48/Undecimus-v3.0.0-b48.ipa)
+
+
+_____
+
 
 [Return Home](theapplearchive.github.io)
