@@ -2,7 +2,7 @@
 
 _____
 
-## Method #1 (No Computer Required)
+### Method #1 (No Computer Required)
 
 _____
 
@@ -18,7 +18,7 @@ Install Electra Jailbreak for iOS 11.0 - 11.4.1 [here](itms-services://?action=d
 
 _____
 
-## Method #2 (Computer Required)
+### Method #2 (Computer Required)
 
 If the above links are broken, method #2 can always be used.
 
