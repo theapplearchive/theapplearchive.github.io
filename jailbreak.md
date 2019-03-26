@@ -12,7 +12,7 @@ Install Unc0ver Jailbreak for iOS 12.0 - 12.1.2 [here](itms-services://?action=d
 
 ### iOS 11
 
-Install Unc0ver Jailbreak for iOS 11.0 - 11.4.1 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D350) (Recommended)
+Install Unc0ver Jailbreak for iOS 11.0 - 11.4.1 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D350)
 
 Install Electra Jailbreak for iOS 11.0 - 11.4.1 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D349)
 
