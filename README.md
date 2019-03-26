@@ -6,7 +6,7 @@ This website is still in beta, you may experience broken links.
 
 This will allow you to block iOS updates to stay on your current version.
 
-This will also prevent your phone from continually asking you to update.
+You will no longer be contrinually prompted to update.
 
 ### [Jailbreak](https://theapplearchive.github.io/jailbreak)
 
