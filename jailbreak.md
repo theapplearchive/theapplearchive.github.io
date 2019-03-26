@@ -6,23 +6,13 @@ _____
 
 ### iOS 12
 
-iOS 12.0 - 12.1.2 *CAN* currently be jailbroken on all devices besides A12. (See below)
-
-iOS 12.1.3 - (latest) *CANNOT* be jailbroken.
-
 Install Unc0ver Jailbreak for iOS 12.0 - 12.1.2 here.
-
-(This will not jailbreak your phone, it will only install the jailbreak app on your phone)
 
 *iPhone XR, XS, and XS Max (A12) will recieve Cydia support soon*
 
 ### iOS 11
 
-All versions of iOS 11 *CAN* currently be jailbroken on all devices.
-
 Install Unc0ver Jailbreak for iOS 11.0 - 11.4.1 here.
-
-(This will not jailbreak your phone, it will only install the jailbreak app on your phone)
 
 _____
 
