@@ -4,14 +4,15 @@ This website is still in beta, you may experience broken links.
 
 ### [Block iOS Updates](https://theapplearchive.github.io/noupdate)
 
-This profile can be removed at any time, making this completely reversable.
-
-Download the profile here.
+This will allow you to block iOS updates to stay on your current version and will prevent your phone from continually asking you to update. This is easily reversable.
 
 ### [Jailbreak](https://theapplearchive.github.io/jailbreak)
 
-Here you will find a list of available jailbreaks and a link to install the applications directly from safari. 
-Visit the jailbreak page here.
+Here you will find a list of available jailbreaks.
+
+There will be links to install the applications directly from safari.
+
+No computer is needed.
 
 ### [Signing Services](https://theapplearchive.github.io/signing)
 
