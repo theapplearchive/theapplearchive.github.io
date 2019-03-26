@@ -14,11 +14,17 @@ Install Unc0ver Jailbreak for iOS 12.0 - 12.1.2 [here](itms-services://?action=d
 
 Install Unc0ver Jailbreak for iOS 11.0 - 11.4.1 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D350)
 
-Install Electra Jailbreak for iOS 11.0 - 11.4.1 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D349)
+Install Electra Jailbreak for iOS 11.3.1 - 11.4.1 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D349)
+
+Install Electra Jailbreak for iOS 11.0 - 11.1.2 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D34)
 
 ### iOS 10
 
 Install Doubleh3lix Jailbreak for iOS 10.0 - 10.3.3 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D31)
+
+Install Yalu Jailbreak for iOS 10.0 - 10.2 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D181)
+
+Install Meridian Jailbreak for iOS 10.0 - 10.3.3 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D106)
 
 _____
 
